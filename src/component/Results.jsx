@@ -1,6 +1,6 @@
 import React from 'react'
-import maleresults from '../images/maleResults.jpeg'
-import femaleresults from '../images/femaleResults.jpeg'
+import maleresults from '../images/MaleResults.jpeg'
+import femaleresults from '../images/FemaleResults.jpeg'
 
 const Results = () => {
     return (
