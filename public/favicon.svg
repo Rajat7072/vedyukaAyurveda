@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Vedyuka Ayurveda monogram V">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1E5E3A"/>
+      <stop offset="100%" stop-color="#123D2D"/>
+    </linearGradient>
+    <linearGradient id="v" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#F5D896"/>
+      <stop offset="100%" stop-color="#D6AE5D"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#bg)"/>
+  <path d="M19 14h7l8.7 24.8L43.5 14H51L39.2 50h-8.9L19 14Z" fill="url(#v)"/>
+</svg>
